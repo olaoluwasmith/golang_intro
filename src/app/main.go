@@ -26,7 +26,7 @@ func main() {
 	a := 20.45
 	b := 34.89
 	c := b - a
-	fmt.Printf("Result is: ", c)
+	fmt.Printf("%v, %T\n", c, c)
 
 	// Complex No
 	var n complex64 = 1 + 2i
