@@ -3,3 +3,4 @@ Topics covered so far are:
 - Variables, constants and data types.
 - Array, slices and map.
 - Struct, if and switch statements.
+- Looping (for loop), defer and pointers
