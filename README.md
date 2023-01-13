@@ -4,3 +4,4 @@ Topics covered so far are:
 - Array, slices and map.
 - Struct, if and switch statements.
 - Looping (for loop), defer and pointers
+- Functions and methods
