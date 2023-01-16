@@ -5,3 +5,4 @@ Topics covered so far are:
 - Struct, if and switch statements.
 - Looping (for loop), defer and pointers
 - Functions and methods
+- Interface
